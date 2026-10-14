@@ -43,3 +43,8 @@ yalc.lock
 
 # Ignore output folder
 backend/out
+# Local plugin packaging output
+/out/
+
+# trace-mcp local index state
+.trace-mcp/
